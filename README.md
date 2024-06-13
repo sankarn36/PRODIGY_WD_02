@@ -1,0 +1,1 @@
+This project is simple example of stop watch using html,css and javascript
